@@ -1,13 +1,14 @@
-# Lolzteam автоучастие в розыгрышах v0.03
+# Lolzteam автоучастие в розыгрышах v0
 
 ## Этот бот позволяет автоматически  участвовать с розыгрышах, на сайте [lolz.guru](https://lolz.guru)
 
 ### Инструкция:
 1. Для работы программы у вас должен быть установлен [Chrome Browser](https://www.google.com/intl/ru/chrome/).
 2. У вас должен быть установлен [Python 3.8.6](https://www.python.org/downloads/release/python-386/) и pip, а так же ```pip3 install requests pytesseract selenium opencv-python pillow```.
-4. Необходимо распаковать файл Tesseract-OCR.zip.
-3. Для работы программы необходимо вставить Cookie в формате json с [lolz.guru](https://lolz.guru) в файл cookie.txt (Можно использовать [EditThisCookie](https://bit.ly/EditThisCookielzt)).
-4. + Для Windows: Запустить двойным нажатием файл main.py
+3. Для корректной работы скрипта нужно прописать путь до папки ```cd "путь_до_папки"```.
+4. Необходимо распаковать файл Tesseract-OCR.zip в папку со скриптом.
+5. Для работы программы необходимо вставить Cookie в формате json с [lolz.guru](https://lolz.guru) в файл cookie.txt (Можно использовать [EditThisCookie](https://bit.ly/EditThisCookielzt)).
+6. + Для Windows: Запустить двойным нажатием файл main.py
    + Для Linux: Программа пока не работает на Linux. В скором времени планируется добавить поддержку Linux.
 
 
